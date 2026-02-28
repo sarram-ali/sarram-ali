@@ -3,22 +3,22 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;.Turning+Data+into+Actionable+Insights.;Data+Analysis;[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Data+Analysis;[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sarram-ali">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;;&nbsp;
   <a href="https://www.tiktok.com/">
     <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" height="40">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;;&nbsp;
   <a href="https://discord.gg/ZJkzstGhUG">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;;&nbsp;
   <a href="muhammadsarramali@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40">
   </a>
