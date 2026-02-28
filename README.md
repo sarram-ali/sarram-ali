@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="40">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:yourgmail@gmail.com">
+  <a href="mailto:yourgmail@gmail.com">d
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" height="40">
   </a>
 </p>
