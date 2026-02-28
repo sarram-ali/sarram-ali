@@ -8,31 +8,11 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
 
-  <a href="mailto:yourgmail@gmail.com" style="text-decoration:none;">
-    <span style="display:inline-block;background:#ffffff;padding:15px;border-radius:12px;margin:8px;">
-      <img src="https://github.com/user-attachments/assets/0294e076-0703-4b60-8c6e-2fe4811c2eae" height="60">
-    </span>
-  </a>
+  **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)**
+**[![TikTok](https://img.shields.io/badge/TikTok-010101?logo=tiktok&logoColor=white)](https://www.tiktok.com/)**
+**[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZJkzstGhUG)**
+**[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:yourgmail@gmail.com)**
 
-  <a href="https://www.tiktok.com/" style="text-decoration:none;">
-    <span style="display:inline-block;background:#000000;padding:15px;border-radius:12px;margin:8px;">
-      <img src="https://github.com/user-attachments/assets/5660df53-ab08-4d4b-8c59-590062ea6d3d" height="60">
-    </span>
-  </a>
-
-  <a href="https://discord.gg/ZJkzstGhUG" style="text-decoration:none;">
-    <span style="display:inline-block;background:#5865F2;padding:15px;border-radius:0px;margin:8px;">
-      <img src="https://github.com/user-attachments/assets/b5fdedbe-e0b7-4388-853a-c664e16b8b0b" height="60">
-    </span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/yourusername" style="text-decoration:none;">
-    <span style="display:inline-block;background:#0A66C2;padding:15px;border-radius:0px;margin:8px;">
-      <img src="https://github.com/user-attachments/assets/afce211b-f7b4-4648-a51c-ffb2cec605cc" height="60">
-    </span>
-  </a>
-
-</p>
 
 
 ## 🚀 About Me 
