@@ -8,16 +8,16 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="200">
   </a>
   <a href="https://www.tiktok.com/">
-    <img src="https://img.shields.io/badge/TikTok-010101?logo=tiktok&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/TikTok-010101?logo=tiktok&logoColor=white" height="100">
   </a>
   <a href="https://discord.gg/ZJkzstGhUG">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="50">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="150">
   </a>
   <a href="mailto:yourgmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" height="60">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" height="150">
   </a>
 </p>
 
