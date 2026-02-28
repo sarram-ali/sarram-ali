@@ -6,10 +6,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 <!-- 🔗 Update these links with your own social media and contact information -->
-<img width="4096" height="4096" alt="gmail" src="https://github.com/user-attachments/assets/0294e076-0703-4b60-8c6e-2fe4811c2eae" />
-<img width="1280" height="1280" alt="tiktok" src="https://github.com/user-attachments/assets/5660df53-ab08-4d4b-8c59-590062ea6d3d" />
-<img width="3440" height="3440" alt="discord" src="https://github.com/user-attachments/assets/b5fdedbe-e0b7-4388-853a-c664e16b8b0b" />
-<img width="5000" height="5000" alt="linkdin" src="https://github.com/user-attachments/assets/afce211b-f7b4-4648-a51c-ffb2cec605cc" />
+<p align="center">
+  <a href="mailto:yourgmail@gmail.com">
+    <img src="https://github.com/user-attachments/assets/0294e076-0703-4b60-8c6e-2fe4811c2eae" height="120">
+  </a>
+
+  <a href="https://www.tiktok.com/">
+    <img src="https://github.com/user-attachments/assets/5660df53-ab08-4d4b-8c59-590062ea6d3d" height="120">
+  </a>
+
+  <a href="https://discord.gg/ZJkzstGhUG">
+    <img src="https://github.com/user-attachments/assets/b5fdedbe-e0b7-4388-853a-c664e16b8b0b" height="120">
+  </a>
+
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://github.com/user-attachments/assets/afce211b-f7b4-4648-a51c-ffb2cec605cc" height="120">
+  </a>
+</p>
 
 
 ## 🚀 About Me 
