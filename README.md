@@ -7,7 +7,7 @@
 </div>
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/sarram-ali">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
   </a>
   &nbsp;&nbsp;
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:yourgmail@gmail.com">
+  <a href="muhammadsarramali@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40">
   </a>
 </p>
