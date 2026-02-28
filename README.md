@@ -21,14 +21,14 @@
   </a>
 
   <a href="https://discord.gg/ZJkzstGhUG" style="text-decoration:none;">
-    <span style="display:inline-block;background:#5865F2;padding:15px;border-radius:12px;margin:8px;">
+    <span style="display:inline-block;background:#5865F2;padding:15px;border-radius:0px;margin:8px;">
       <img src="https://github.com/user-attachments/assets/b5fdedbe-e0b7-4388-853a-c664e16b8b0b" height="60">
     </span>
   </a>
 
   <a href="https://www.linkedin.com/in/yourusername" style="text-decoration:none;">
-    <span style="display:inline-block;background:#0A66C2;padding:15px;border-radius:12px;margin:8px;">
-      <img src="https://github.com/user-attachments/assets/afce211b-f7b4-4648-a51c-ffb2cec605cc" height="100">
+    <span style="display:inline-block;background:#0A66C2;padding:15px;border-radius:0px;margin:8px;">
+      <img src="https://github.com/user-attachments/assets/afce211b-f7b4-4648-a51c-ffb2cec605cc" height="60">
     </span>
   </a>
 
