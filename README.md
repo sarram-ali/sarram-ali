@@ -28,7 +28,7 @@
 
   <a href="https://www.linkedin.com/in/yourusername" style="text-decoration:none;">
     <span style="display:inline-block;background:#0A66C2;padding:15px;border-radius:12px;margin:8px;">
-      <img src="https://github.com/user-attachments/assets/afce211b-f7b4-4648-a51c-ffb2cec605cc" height="60">
+      <img src="https://github.com/user-attachments/assets/afce211b-f7b4-4648-a51c-ffb2cec605cc" height="100">
     </span>
   </a>
 
