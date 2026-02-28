@@ -8,11 +8,6 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  
-  **[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@rexi_craftL)**
-
-
-       **[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://www.linkedin.com/in/sarram-ali)**
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)**
 **[![Instagram](https://img.shields.io/badge/Instagram-de1f75?logo=instagram&logoColor=white)](https://instagram.com/rexi_xj)**
 **[![TikTok](https://img.shields.io/badge/TikTok-010101?logo=tiktok&logoColor=white)](https://www.tiktok.com/)**
