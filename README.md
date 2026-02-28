@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="40">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:yourgmail@gmail.com">d
+  <a href="mailto:yourgmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" height="40">
   </a>
-</p>
+</p>>
 
 ## 🚀 About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
