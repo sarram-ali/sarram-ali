@@ -6,19 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 <!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="mailto:yourgmail@gmail.com">
-    <img src="<img width="1000" height="1000" alt="pngwing com (2)" src="https://github.com/user-attachments/assets/ebd5f12c-b053-43b8-ae15-8521d9eb5aee" />" height="120">
-  </a>
+<img width="4096" height="4096" alt="gmail" src="https://github.com/user-attachments/assets/0294e076-0703-4b60-8c6e-2fe4811c2eae" />
+<img width="1280" height="1280" alt="tiktok" src="https://github.com/user-attachments/assets/5660df53-ab08-4d4b-8c59-590062ea6d3d" />
+<img width="3440" height="3440" alt="discord" src="https://github.com/user-attachments/assets/b5fdedbe-e0b7-4388-853a-c664e16b8b0b" />
+<img width="5000" height="5000" alt="linkdin" src="https://github.com/user-attachments/assets/afce211b-f7b4-4648-a51c-ffb2cec605cc" />
 
-  <a href="https://www.tiktok.com/">
-    <img src="<img width="1280" height="1280" alt="pngwing com (1)" src="https://github.com/user-attachments/assets/1f22715f-dc2f-4b47-ba81-bf67e5839dad" />" height="120">
-  </a>
-  
-  <a href="muhammadsarramali@gmail.com">
-    <img src="<img width="4096" height="4096" alt="pngwing com" src="https://github.com/user-attachments/assets/18dce855-17f1-4e11-9782-941246cd842c" />" height="120">
-  </a>
-</p>
 
 ## 🚀 About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
