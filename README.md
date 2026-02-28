@@ -7,13 +7,19 @@
 </div>
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-
-  **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)**
-**[![TikTok](https://img.shields.io/badge/TikTok-010101?logo=tiktok&logoColor=white)](https://www.tiktok.com/)**
-**[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZJkzstGhUG)**
-**[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:yourgmail@gmail.com)**
-
-
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/">
+    <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://discord.gg/ZJkzstGhUG">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:yourgmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ## 🚀 About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
