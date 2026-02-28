@@ -7,22 +7,17 @@
 </div>
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  
-<p align="center">
   <a href="https://www.linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="40">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.tiktok.com/">
     <img src="https://img.shields.io/badge/TikTok-010101?logo=tiktok&logoColor=white" height="40">
   </a>
-  &nbsp;&nbsp;
   <a href="https://discord.gg/ZJkzstGhUG">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="50">
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:yourgmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" height="60">
   </a>
 </p>
 
