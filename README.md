@@ -8,15 +8,15 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="mailto:yourgmail@gmail.com">
-    <img src="pngwing.com.png" height="120">
+    <img src="<img width="1000" height="1000" alt="pngwing com (2)" src="https://github.com/user-attachments/assets/ebd5f12c-b053-43b8-ae15-8521d9eb5aee" />" height="120">
   </a>
-  
+
   <a href="https://www.tiktok.com/">
-    <img src="pngwing.com (1).png" height="120">
+    <img src="<img width="1280" height="1280" alt="pngwing com (1)" src="https://github.com/user-attachments/assets/1f22715f-dc2f-4b47-ba81-bf67e5839dad" />" height="120">
   </a>
   
-  <a href="https://www.instagram.com/">
-    <img src="pngwing.com (2).png" height="120">
+  <a href="muhammadsarramali@gmail.com">
+    <img src="<img width="4096" height="4096" alt="pngwing com" src="https://github.com/user-attachments/assets/18dce855-17f1-4e11-9782-941246cd842c" />" height="120">
   </a>
 </p>
 
