@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" height="40">
   </a>
 
-  <a href="https://www.instagram.com/sarram_ali" target="_blank">
+  <a href="https://www.instagram.com/sarram_here" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-de1f75?style=for-the-badge&logo=instagram&logoColor=white" height="40">
   </a>
 
