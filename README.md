@@ -47,10 +47,10 @@ When I'm not working with data, I enjoy Running. I love the "aha!" moment when d
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
+<p align="center">
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
@@ -74,4 +74,5 @@ When I'm not working with data, I enjoy Running. I love the "aha!" moment when d
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Expert-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Learning-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+</p>
 </p>
