@@ -44,8 +44,10 @@ When I'm not working with data, I enjoy Running. I love the "aha!" moment when d
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+• Applied statistics for business decision-making
+• Advanced data visualization and dashboard design
+• Data modeling and efficient data pipelines
+• Cloud fundamentals for modern data infrastructure
 
 <div align="center">
   
