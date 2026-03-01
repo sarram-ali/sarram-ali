@@ -62,7 +62,7 @@ When I'm not working with data, I enjoy Running. I love the "aha!" moment when d
 #### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-Moderate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/C%2B%2B-Beginner-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++ Skill Badge">  
+  <img src="https://img.shields.io/badge/C%2B%2B-Beginner-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++ Skill Badge"> 
 </p>
 
 #### Business Intelligence & Analytics
