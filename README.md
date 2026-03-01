@@ -44,10 +44,9 @@ When I'm not working with data, I enjoy Running. I love the "aha!" moment when d
 
 ## 🌱 Currently Learning 
 
-- Applied statistics for business decision-making
-- Advanced data visualization and dashboard design
-- Data modeling and efficient data pipelines
-- Cloud fundamentals for modern data infrastructure
+- Advanced statistics for better business decisions
+- Clear, impactful data visualization
+- Scalable data workflows & cloud fundamentals
 
 <div align="center">
   
