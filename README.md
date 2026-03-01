@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://www.instagram.com/sarram_ali" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Instagram-de1f75?style=for-the-badge&logo=instagram&logoColor=white" height="40">
   </a>
 
   <a href="mailto:muhammadsarramali@gmail.com?subject=Portfolio Contact&body=Hello Sarram, I want to connect with you.">
@@ -23,16 +23,6 @@
   </a>
 </div>
 
-<style>
-.social-links {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-  margin-top: 30px;
-  flex-wrap: wrap;
-}
-</style>
 
 ## 🚀 About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
