@@ -6,23 +6,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Data+Analysis;[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 <!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarram-ali">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@sarram_ali">
-    <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/ZJkzstGhUG">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="muhammadsarramali@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/sarram-ali" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.tiktok.com/@sarram_ali" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" height="40">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/sarram_ali" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammadsarramali@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+</a>
 
 ## 🚀 About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
