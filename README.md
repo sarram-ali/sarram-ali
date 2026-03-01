@@ -38,7 +38,7 @@ When I'm not working with data, I enjoy Running. I love the "aha!" moment when d
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Conducting exploratory data analysis (EDA) on retail and e-commerce datasets to uncover revenue trends and customer behavior insights using Python.
+- #### **Project A:** #### Conducting exploratory data analysis (EDA) on retail and e-commerce datasets to uncover revenue trends and customer behavior insights using Python.
 - **Project B:** Developing interactive data visualizations and analytical reports to highlight business performance and identify growth opportunities.
 - **Content Creation:** Building and publishing real-world data analytics projects to strengthen analytical thinking and practical problem-solving skills.
 
