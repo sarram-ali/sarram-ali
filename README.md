@@ -4,6 +4,7 @@
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Data+Analysis;[Your+Experience+or+Tagline]" alt="Typing SVG" />
+ </div>
 
 <div class="social-links">
   <a href="https://www.linkedin.com/in/sarram-ali" target="_blank">
@@ -21,8 +22,6 @@
   <a href="mailto:muhammadsarramali@gmail.com?subject=Portfolio Contact&body=Hello Sarram, I want to connect with you.">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40">
   </a>
-  
- </div>
 
 
 
