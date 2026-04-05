@@ -31,9 +31,7 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 I specialize in cleaning messy datasets, performing exploratory data analysis (EDA), and building meaningful visualizations that highlight trends, patterns, and opportunities. My goal is to solve real-world business problems using data-driven approaches.
 
-I enjoy working on practical projects involving sales analysis, customer behavior, and performance optimization. I'm continuously improving my skills in analytics, visualization, and statistical thinking.
-
-Outside of data, I enjoy running and exploring new ideas that challenge my thinking.
+I enjoy working on practical projects involving sales analysis, customer behavior, and performance optimization. I'm continuously improving my skills in analytics, visualization, and statistical thinking. Outside of data, I enjoy running and exploring new ideas that challenge my thinking.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://sarram-ali.github.io/)
